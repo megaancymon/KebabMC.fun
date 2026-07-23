@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "KebabMC.fun-bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "KebabMC.fun-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "Kebabmc-event.aternos.me",
+    "port": 11839,
+    "version": "1.21.10",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
