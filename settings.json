@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kebabmc-event.aternos.me",
-    "port": 11839,
+    "ip": "kebabmc.fun",
+    "port": 10003,
     "version": "1.21.10",
     "try-creative": true
   },
